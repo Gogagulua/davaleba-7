@@ -156,3 +156,50 @@ nav {
   display: flex;
   gap: 55px;
 }
+
+/* section 3 */
+
+.section_3 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.section_3 h1 {
+  font-family: "Work Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 75px;
+  line-height: 88px;
+
+  color: #081323;
+  margin-bottom: 67px;
+}
+.section_figure {
+  background-image: url(../photos/unsplash_kyt0PkBSCNQ.png);
+  width: 738px;
+  height: 645px;
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+.figure_text {
+  font-family: "Work Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 75px;
+
+  color: #dcb47a;
+}
+
+.section_3_div_3 {
+  display: flex;
+  width: 70%;
+  gap: 20px;
+}
+
+.section_figure_2 {
+  margin-bottom: 25px;
+}

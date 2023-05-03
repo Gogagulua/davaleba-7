@@ -114,3 +114,45 @@ nav {
   border: 10px solid #525a55;
   color: white;
 }
+
+/* section 2 */
+
+.section_2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 245px;
+  margin-bottom: 245px;
+}
+
+.section_2_div_2 {
+  width: 70%;
+}
+
+.section_2 .section_2_div_2 h1 {
+  font-family: "Work Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 75px;
+  line-height: 88px;
+  margin-bottom: 81px;
+
+  color: #081323;
+}
+.card {
+  padding: 30px 41px 30px 41px;
+  border: 2px solid #dcb47a;
+  width: 390px;
+}
+.card div {
+  display: flex;
+  justify-content: space-between;
+}
+.card p {
+  margin-top: 17px;
+}
+
+.cards {
+  display: flex;
+  gap: 55px;
+}
